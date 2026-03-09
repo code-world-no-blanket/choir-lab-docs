@@ -27,6 +27,7 @@
 - [ ] Do you have findings highlighted in a summarizing box?
 - [ ] Are graphs and tables readable, properly labeled, and referenced in the text?
 - [ ] Have you explained how your work is novel compared to related studies?
+- [ ] Does the discussion provide clear takeaways, lessons learned, etc. for the reader?
 
 ## Study Materials
 - [ ] Are the supplemental materials added (or do you explain why they aren't provided)?
