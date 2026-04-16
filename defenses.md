@@ -14,7 +14,7 @@ The goal of the research defense is "to ensure that students are adequately prep
 
 (d) an update on the methodologies, tool designs, and results so far from the propsed work. 
 
-There is no written portion to this exam, only an oral presentation. The presentation should last no more than one hour, and be organized in a way so that you can receive constructive feedback to refine your work. Please be open to suggestions and critiques, as your committee will ultimately decide whether you pass the final dissertation defense.
+There is no written portion to this exam, only an oral presentation. The presentation should last no more than one hour, and be organized in a way so that you can receive constructive feedback to refine your work. Please be open to suggestions and critiques, as your committee will ultimately decide whether you pass the final dissertation defense. Every student should complete a research defense, unless there is an extenuating circumstance (i.e., you have a job that starts immediately).
 
 **Presentation Style**: Technical: Provide details on methodologies, findings, and implications. Be ready to explain your decisions and respond to questions/discussions.
 
