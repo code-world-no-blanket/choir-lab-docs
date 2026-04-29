@@ -1,6 +1,32 @@
-# Final PhD Milestones
+# PhD Milestones
 
-The department guidelines for the research (pg 26) and final (pg 26-27) are available [here](https://virginiatech-my.sharepoint.com/:w:/g/personal/sara83_vt_edu/IQBCGrtZhLDMQoxWMrsyjNm4AVHtRJhMOeAiQftLwhGvH6I?e=M28AtA). More details specifically for our research group are provided below:
+The department guidelines for the qualifier exam (pg 24-25), preliminary exam (pg 25-26), research defense (pg 26) and final defense (pg 26-27) are available [here](https://virginiatech-my.sharepoint.com/:w:/g/personal/sara83_vt_edu/IQBCGrtZhLDMQoxWMrsyjNm4AVHtRJhMOeAiQftLwhGvH6I?e=M28AtA). More details specifically for our research group are provided below:
+
+## Qualifier Exam
+
+The goal of the qualifier exam is to show you are capable of doing research. The format of the exam will differ depending on the research area and who is on the committee, however all exams will require a written and oral component. You will typically sign up at the end of the fall semester, complete for the exam in January-February, and submit the deliverables in March. A sample qualifier exam format for software engineering can be found [here](https://chbrown13.github.io/qualifier.html). For this exam, your goal it to show you have the ability to:
+
+* find and understand existing literature in your field;
+* convey scholarly topics (via writing and oral presentation) to an academic audience; and
+* identify gaps in existing research and propose a research direction to fill this gap (this may or may not be what you actually work on for your PhD).
+
+## Preliminary Exam
+
+The preliminary examination (a.k.a. dissertation proposal) will establish the expectations for you to complete your dissertation. It consists of a written document and oral presentation, both outlining your preliminary findings and proposing the final study/ies to complete your PhD. Before scheduling your preliminary exam, you will need to have some research completed (ideally published) and you must have your dissertation committee finalized, including your external committee member. Somewhere on the CS@VT website it was mentioned that your written document should be short (~15 pages) to just propose your final study, however most students use this as a first pass at your final thesis and way to start making early progress on dissertation writing---which I would also suggest. For the prelim exam, your goals should be to:
+
+(a) motivate your committee that your research problem is a problem, it's a problem worth exploring, and you have an idea for a proposed solution to this problem;
+
+(b) demonstrate how the completed work highlights the problem and/or motivates your proposed solution;
+
+(c) present the technical details of your proposed studies for the remainder of your PhD;
+
+(d) obtain feedback from your committee on the scope, direction and feasibility of your proposed work;
+
+(d) provide a timeline for the completion of your PhD (this may change, but should provide an estimated time to complete the remaining milestones); and
+
+(e) form an agreement between the you and the committee regarding what needs to be completed before you can graduate. 
+
+**Presentation Style**: Technical: Provide details on the problem, methodologies, and the proposed work to provide solutions to your research problem. Be ready to explain your decisions and respond to questions/discussions.
 
 ## Research Defense
 
@@ -36,7 +62,7 @@ You must schedule your exam through the graduate school. Two weeks before the sc
 
 ## Presentation Quality
 
-For both exams, you should exhibit high-quality presentation skills that demonstrate you are **the _expert_** in this field. Some tips are below, but please also see the ["How to Give A Bad Talk 10 Commandments"](https://courses.washington.edu/b572/public/RiediBadTalk.pdf)
+For all exams, you should exhibit high-quality presentation skills that demonstrate you are **the _expert_** in this field (especially for the research and final defenses). Some tips are below, but please also see the ["How to Give A Bad Talk 10 Commandments"](https://courses.washington.edu/b572/public/RiediBadTalk.pdf)
 
 1. Use clear and direct language
   * Aim for straightforward language that conveys your message effectively.
